@@ -1,0 +1,630 @@
+17:36:06 [INFOS] Using standard Java JCE cipher.
+17:36:06 [INFOS] Using standard Java compressor.
+17:36:06 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+17:36:06 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+17:36:06 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+17:36:06 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+17:36:06 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+17:36:06 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+17:36:06 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+17:36:06 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+17:36:06 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:36:06 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1884, git=f6b40b1)
+17:36:06 [INFOS] Attempting to Jenkins download module cmd_alert v1884
+17:36:07 [INFOS] Download complete
+17:36:07 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1884, git=f6b40b1)
+17:36:07 [INFOS] Attempting to Jenkins download module cmd_find v1884
+17:36:07 [INFOS] Download complete
+17:36:07 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1884, git=f6b40b1)
+17:36:07 [INFOS] Attempting to Jenkins download module cmd_list v1884
+17:36:07 [INFOS] Download complete
+17:36:07 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1884, git=f6b40b1)
+17:36:07 [INFOS] Attempting to Jenkins download module cmd_send v1884
+17:36:07 [INFOS] Download complete
+17:36:07 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1884, git=f6b40b1)
+17:36:07 [INFOS] Attempting to Jenkins download module cmd_server v1884
+17:36:07 [INFOS] Download complete
+17:36:07 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1884, git=f6b40b1)
+17:36:07 [INFOS] Attempting to Jenkins download module reconnect_yaml v1884
+17:36:07 [INFOS] Download complete
+17:36:07 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:36:07 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:36:07 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:36:07 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:36:07 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:36:07 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:36:07 [AVERTISSEMENT] Forced host server pvp is not defined
+17:36:07 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:36:07 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:36:07 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:36:07 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:36:07 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:36:07 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:36:07 [INFOS] Listening on /0.0.0.0:25577
+17:36:22 [INFOS] Closing listener [id: 0x94c2fe63, L:/[0:0:0:0:0:0:0:0]:25577]
+17:36:22 [INFOS] Closing pending connections
+17:36:22 [INFOS] Disconnecting 0 connections
+17:36:23 [INFOS] Saving reconnect locations
+17:36:23 [INFOS] Disabling plugins
+17:36:23 [INFOS] Closing IO threads
+17:48:47 [INFOS] Using standard Java JCE cipher.
+17:48:47 [INFOS] Using standard Java compressor.
+17:48:47 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+17:48:47 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+17:48:47 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+17:48:47 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+17:48:47 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+17:48:47 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+17:48:47 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+17:48:47 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+17:48:47 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:48:47 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:48:47 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:48:47 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:48:47 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:48:47 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:48:47 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:48:47 [GRAVE] Exception in thread "main" 
+17:48:47 [GRAVE] java.lang.RuntimeException: Invalid configuration encountered - this is a configuration error and NOT a bug! Please attempt to fix the error or see https://www.spigotmc.org/ for help.
+
+17:48:47 [GRAVE] 	at net.md_5.bungee.conf.YamlConfig.load(YamlConfig.java:73)
+
+17:48:47 [GRAVE] 	at net.md_5.bungee.conf.Configuration.load(Configuration.java:76)
+
+17:48:47 [GRAVE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:285)
+
+17:48:47 [GRAVE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+
+17:48:47 [GRAVE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+17:48:47 [GRAVE] Caused by: while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'reader', line 30, column 3:
+      	motd: 'BungeeCord 3'
+      ^
+
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:445)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:238)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:669)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeScalarNode(Composer.java:241)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:205)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeKeyNode(Composer.java:359)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:344)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:178)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:493)
+
+17:48:47 [GRAVE] 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:434)
+
+17:48:47 [GRAVE] 	at net.md_5.bungee.conf.YamlConfig.load(YamlConfig.java:70)
+
+17:48:47 [GRAVE] 	... 4 more
+
+17:49:41 [INFOS] Using standard Java JCE cipher.
+17:49:41 [INFOS] Using standard Java compressor.
+17:49:41 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+17:49:41 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+17:49:41 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+17:49:41 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+17:49:41 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+17:49:41 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+17:49:41 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+17:49:41 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+17:49:41 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:49:41 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:49:41 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:49:41 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:49:41 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:49:41 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:49:41 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:49:41 [GRAVE] Exception in thread "main" 
+17:49:41 [GRAVE] java.lang.RuntimeException: Invalid configuration encountered - this is a configuration error and NOT a bug! Please attempt to fix the error or see https://www.spigotmc.org/ for help.
+
+17:49:41 [GRAVE] 	at net.md_5.bungee.conf.YamlConfig.load(YamlConfig.java:73)
+
+17:49:41 [GRAVE] 	at net.md_5.bungee.conf.Configuration.load(Configuration.java:76)
+
+17:49:41 [GRAVE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:285)
+
+17:49:41 [GRAVE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+
+17:49:41 [GRAVE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+17:49:41 [GRAVE] Caused by: while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'reader', line 30, column 3:
+      	motd: 'BungeeCord 3'
+      ^
+
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:445)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:238)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:669)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeScalarNode(Composer.java:241)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:205)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeKeyNode(Composer.java:359)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:344)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:178)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:493)
+
+17:49:41 [GRAVE] 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:434)
+
+17:49:41 [GRAVE] 	at net.md_5.bungee.conf.YamlConfig.load(YamlConfig.java:70)
+
+17:49:41 [GRAVE] 	... 4 more
+
+17:54:28 [INFOS] Using standard Java JCE cipher.
+17:54:28 [INFOS] Using standard Java compressor.
+17:54:28 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+17:54:28 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+17:54:28 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+17:54:28 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+17:54:28 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+17:54:28 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+17:54:28 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+17:54:28 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+17:54:28 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:54:28 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:54:28 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:54:28 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:54:28 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:54:28 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:54:28 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:54:28 [AVERTISSEMENT] Forced host server pvp is not defined
+17:54:28 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:54:28 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:54:28 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:54:28 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:54:28 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:54:28 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+17:54:28 [INFOS] Listening on /0.0.0.0:25565
+17:58:08 [INFOS] [/127.0.0.1:63341] <-> InitialHandler has connected
+17:58:09 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+17:58:09 [INFOS] [lu420] disconnected with: §f§fUnexpected disconnect during server login, did you forget to enable BungeeCord / IP forwarding on your server?
+17:58:09 [INFOS] [lu420] <-> ServerConnector [lobby] has disconnected
+17:58:09 [INFOS] [lu420] -> UpstreamBridge has disconnected
+17:58:35 [INFOS] [lu420,/127.0.0.1:63346] <-> InitialHandler has connected
+17:58:36 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+17:58:36 [INFOS] [lu420] disconnected with: §f§fUnexpected disconnect during server login, did you forget to enable BungeeCord / IP forwarding on your server?
+17:58:36 [INFOS] [lu420] <-> ServerConnector [lobby] has disconnected
+17:58:36 [INFOS] [lu420] -> UpstreamBridge has disconnected
+17:59:52 [INFOS] Closing listener [id: 0x8484d674, L:/[0:0:0:0:0:0:0:0]:25565]
+17:59:52 [INFOS] Closing pending connections
+17:59:52 [INFOS] Disconnecting 0 connections
+17:59:52 [INFOS] Saving reconnect locations
+17:59:52 [INFOS] Disabling plugins
+17:59:52 [INFOS] Closing IO threads
+18:05:57 [INFOS] Using standard Java JCE cipher.
+18:05:57 [INFOS] Using standard Java compressor.
+18:05:57 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+18:05:57 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+18:05:57 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+18:05:57 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+18:05:57 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+18:05:57 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+18:05:57 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+18:05:57 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+18:05:57 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:05:57 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:05:57 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:05:57 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:05:57 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:05:57 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:05:57 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:05:57 [AVERTISSEMENT] Forced host server pvp is not defined
+18:05:57 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:05:57 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:05:57 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:05:57 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:05:57 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:05:57 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:05:57 [INFOS] Listening on /0.0.0.0:25565
+18:06:48 [INFOS] [/127.0.0.1:63514] <-> InitialHandler has connected
+18:06:49 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+18:06:49 [INFOS] [lu420] disconnected with: §f§fUnexpected disconnect during server login, did you forget to enable BungeeCord / IP forwarding on your server?
+18:06:49 [INFOS] [lu420] <-> ServerConnector [lobby] has disconnected
+18:06:49 [INFOS] [lu420] -> UpstreamBridge has disconnected
+18:07:14 [INFOS] [/127.0.0.1:63517] <-> InitialHandler has connected
+18:07:15 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+18:07:15 [INFOS] [lu420] disconnected with: §f§fUnexpected disconnect during server login, did you forget to enable BungeeCord / IP forwarding on your server?
+18:07:15 [INFOS] [lu420] <-> ServerConnector [lobby] has disconnected
+18:07:15 [INFOS] [lu420] -> UpstreamBridge has disconnected
+18:12:17 [INFOS] Closing listener [id: 0x555cf956, L:/[0:0:0:0:0:0:0:0]:25565]
+18:12:17 [INFOS] Closing pending connections
+18:12:17 [INFOS] Disconnecting 0 connections
+18:12:17 [INFOS] Saving reconnect locations
+18:12:17 [INFOS] Disabling plugins
+18:12:17 [INFOS] Closing IO threads
+18:12:19 [INFOS] Thank you and goodbye
+18:24:47 [INFOS] Using standard Java JCE cipher.
+18:24:47 [INFOS] Using standard Java compressor.
+18:24:47 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+18:24:47 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+18:24:47 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+18:24:47 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+18:24:47 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+18:24:47 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+18:24:47 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+18:24:47 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+18:24:47 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:24:47 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:24:47 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:24:47 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:24:47 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:24:47 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:24:47 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:24:47 [AVERTISSEMENT] Forced host server pvp is not defined
+18:24:47 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:24:47 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:24:47 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:24:47 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:24:47 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:24:47 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:24:47 [INFOS] Listening on /0.0.0.0:25565
+18:25:10 [INFOS] [/127.0.0.1:63751] <-> InitialHandler has connected
+18:25:11 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+18:25:11 [INFOS] [lu420] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated server! I'm still on 1.21.1
+18:25:11 [INFOS] [lu420] -> UpstreamBridge has disconnected
+18:25:11 [INFOS] [lu420] <-> ServerConnector [lobby] has disconnected
+18:29:11 [INFOS] [lu420,/127.0.0.1:63840] <-> InitialHandler has connected
+18:29:12 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+18:29:12 [INFOS] Netty is not using direct IO buffers.
+
+18:35:06 [INFOS] [lu420] <-> ServerConnector [survie] has connected
+18:35:06 [INFOS] [lu420] <-> DownstreamBridge <-> [lobby] has disconnected
+18:35:30 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+18:35:30 [INFOS] [lu420] <-> DownstreamBridge <-> [survie] has disconnected
+18:36:13 [INFOS] [lu420] <-> ServerConnector [survie] has connected
+18:36:13 [INFOS] [lu420] <-> DownstreamBridge <-> [lobby] has disconnected
+18:37:13 [INFOS] [lu420] disconnected with: §f§fServer closed
+18:37:13 [INFOS] [lu420] -> UpstreamBridge has disconnected
+18:37:13 [INFOS] [lu420] <-> DownstreamBridge <-> [survie] has disconnected
+18:37:20 [INFOS] Closing listener [id: 0x83abca27, L:/[0:0:0:0:0:0:0:0]:25565]
+18:37:20 [INFOS] Closing pending connections
+18:37:20 [INFOS] Disconnecting 0 connections
+18:37:20 [INFOS] Saving reconnect locations
+18:37:20 [INFOS] Disabling plugins
+18:37:20 [INFOS] Closing IO threads
+18:43:15 [INFOS] Using standard Java JCE cipher.
+18:43:15 [INFOS] Using standard Java compressor.
+18:43:15 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+18:43:15 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+18:43:15 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+18:43:15 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+18:43:15 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+18:43:15 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+18:43:15 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+18:43:15 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+18:43:15 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:43:15 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:43:15 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:43:15 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:43:15 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:43:15 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:43:15 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:43:15 [AVERTISSEMENT] Forced host server pvp is not defined
+18:43:15 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:43:15 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:43:15 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:43:15 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:43:15 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:43:15 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:43:15 [INFOS] Listening on /0.0.0.0:25565
+18:54:10 [INFOS] Closing listener [id: 0xf8513785, L:/[0:0:0:0:0:0:0:0]:25565]
+18:54:10 [INFOS] Closing pending connections
+18:54:10 [INFOS] Disconnecting 0 connections
+18:54:10 [INFOS] Saving reconnect locations
+18:54:10 [INFOS] Disabling plugins
+18:54:10 [INFOS] Closing IO threads
+18:54:39 [INFOS] Using standard Java JCE cipher.
+18:54:39 [INFOS] Using standard Java compressor.
+18:54:39 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+18:54:39 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+18:54:39 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+18:54:39 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+18:54:39 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+18:54:39 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+18:54:39 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+18:54:39 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+18:54:39 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:54:40 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:54:40 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:54:40 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:54:40 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:54:40 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:54:40 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:54:40 [AVERTISSEMENT] Forced host server pvp is not defined
+18:54:40 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:54:40 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:54:40 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:54:40 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:54:40 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:54:40 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:54:40 [INFOS] Listening on /0.0.0.0:25565
+18:55:57 [INFOS] Closing listener [id: 0x40493569, L:/[0:0:0:0:0:0:0:0]:25565]
+18:55:57 [INFOS] Closing pending connections
+18:55:57 [INFOS] Disconnecting 0 connections
+18:55:58 [INFOS] Saving reconnect locations
+18:55:58 [INFOS] Disabling plugins
+18:55:58 [INFOS] Closing IO threads
+19:04:02 [INFOS] Using standard Java JCE cipher.
+19:04:02 [INFOS] Using standard Java compressor.
+19:04:02 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+19:04:02 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+19:04:02 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+19:04:02 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+19:04:02 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+19:04:02 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+19:04:02 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+19:04:02 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+19:04:02 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+19:04:02 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:04:02 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:04:02 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:04:02 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:04:02 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:04:02 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:04:02 [AVERTISSEMENT] Forced host server pvp is not defined
+19:04:02 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:04:02 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:04:02 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:04:02 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:04:02 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:04:02 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:04:02 [INFOS] Listening on /0.0.0.0:25565
+19:06:36 [INFOS] Closing listener [id: 0x2f72553b, L:/[0:0:0:0:0:0:0:0]:25565]
+19:06:36 [INFOS] Closing pending connections
+19:06:36 [INFOS] Disconnecting 0 connections
+19:06:36 [INFOS] Saving reconnect locations
+19:06:36 [INFOS] Disabling plugins
+19:06:36 [INFOS] Closing IO threads
+19:17:12 [INFOS] Using standard Java JCE cipher.
+19:17:12 [INFOS] Using standard Java compressor.
+19:17:12 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+19:17:12 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+19:17:12 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+19:17:12 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+19:17:12 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+19:17:12 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+19:17:12 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+19:17:12 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+19:17:12 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+19:17:12 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:17:12 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:17:12 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:17:12 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:17:12 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:17:12 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:17:12 [AVERTISSEMENT] Forced host server pvp is not defined
+19:17:12 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:17:12 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:17:12 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:17:12 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:17:12 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:17:12 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+19:17:13 [INFOS] Listening on /0.0.0.0:25565
+19:18:32 [GRAVE] Exception in thread "main" 
+19:18:32 [INFOS] Closing listener [id: 0xcbe7ccca, L:/[0:0:0:0:0:0:0:0]:25565]
+19:18:32 [GRAVE] java.io.IOException: Input/output error
+
+19:18:32 [GRAVE] 	at java.base/java.io.FileInputStream.read0(Native Method)
+
+19:18:32 [GRAVE] 	at java.base/java.io.FileInputStream.read(FileInputStream.java:235)
+
+19:18:32 [GRAVE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+
+19:18:32 [GRAVE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+
+19:18:32 [GRAVE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+
+19:18:32 [GRAVE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+
+19:18:32 [GRAVE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+
+19:18:32 [GRAVE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+
+19:18:32 [GRAVE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+
+19:18:32 [GRAVE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+
+19:18:32 [GRAVE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+
+19:18:32 [GRAVE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+19:18:32 [INFOS] Closing pending connections
+19:18:32 [INFOS] Disconnecting 0 connections
+19:18:32 [INFOS] Saving reconnect locations
+19:18:32 [INFOS] Disabling plugins
+19:18:32 [INFOS] Closing IO threads
+21:58:22 [INFOS] Using standard Java JCE cipher.
+21:58:23 [INFOS] Using standard Java compressor.
+21:58:23 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+21:58:23 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+21:58:23 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+21:58:23 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:58:23 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:58:23 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:58:23 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:58:23 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:58:23 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:58:23 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+21:58:23 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+21:58:23 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+21:58:23 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+21:58:23 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+21:58:23 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+21:58:23 [AVERTISSEMENT] Forced host server pvp is not defined
+21:58:23 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+21:58:23 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+21:58:23 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+21:58:23 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+21:58:23 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+21:58:23 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+21:58:23 [INFOS] Listening on /0.0.0.0:25565
+21:59:23 [INFOS] [/127.0.0.1:65199] <-> InitialHandler has connected
+21:59:24 [INFOS] [lu420] <-> ServerConnector [survie] has connected
+21:59:24 [INFOS] Netty is not using direct IO buffers.
+
+21:59:41 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+21:59:41 [INFOS] [lu420] <-> DownstreamBridge <-> [survie] has disconnected
+22:00:46 [INFOS] [lu420] <-> ServerConnector [survie] has connected
+22:00:46 [INFOS] [lu420] <-> DownstreamBridge <-> [lobby] has disconnected
+22:01:11 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+22:01:12 [INFOS] [lu420] <-> DownstreamBridge <-> [survie] has disconnected
+22:01:29 [INFOS] [lu420] -> UpstreamBridge has disconnected
+22:01:29 [INFOS] [lu420] <-> DownstreamBridge <-> [lobby] has disconnected
+22:03:30 [INFOS] [lu420,/127.0.0.1:65248] <-> InitialHandler has connected
+22:03:31 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+22:03:49 [INFOS] [lu420] <-> ServerConnector [survie] has connected
+22:03:49 [INFOS] [lu420] <-> DownstreamBridge <-> [lobby] has disconnected
+22:04:04 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+22:04:04 [INFOS] [lu420] <-> DownstreamBridge <-> [survie] has disconnected
+22:04:21 [INFOS] [lu420] -> UpstreamBridge has disconnected
+22:04:21 [INFOS] [lu420] <-> DownstreamBridge <-> [lobby] has disconnected
+22:59:09 [INFOS] Closing listener [id: 0xb162fa09, L:/[0:0:0:0:0:0:0:0]:25565]
+22:59:09 [INFOS] Closing pending connections
+22:59:09 [INFOS] Disconnecting 0 connections
+22:59:10 [INFOS] Saving reconnect locations
+22:59:10 [INFOS] Disabling plugins
+22:59:10 [INFOS] Closing IO threads
+23:00:49 [INFOS] Using standard Java JCE cipher.
+23:00:49 [INFOS] Using standard Java compressor.
+23:00:49 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+23:00:49 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+23:00:49 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+23:00:49 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+23:00:49 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+23:00:49 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+23:00:49 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+23:00:49 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+23:00:49 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:00:49 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:00:49 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:00:49 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:00:49 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:00:49 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:00:49 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:00:49 [AVERTISSEMENT] Forced host server pvp is not defined
+23:00:49 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:00:49 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:00:49 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:00:49 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:00:49 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:00:49 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:00:49 [INFOS] Listening on /0.0.0.0:25565
+23:01:10 [INFOS] Closing listener [id: 0xee71afba, L:/[0:0:0:0:0:0:0:0]:25565]
+23:01:10 [INFOS] Closing pending connections
+23:01:10 [INFOS] Disconnecting 0 connections
+23:01:10 [INFOS] Saving reconnect locations
+23:01:10 [INFOS] Disabling plugins
+23:01:10 [INFOS] Closing IO threads
+23:01:12 [INFOS] Thank you and goodbye
+23:03:10 [INFOS] Using standard Java JCE cipher.
+23:03:10 [INFOS] Using standard Java compressor.
+23:03:10 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+23:03:10 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+23:03:10 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+23:03:10 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+23:03:10 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+23:03:10 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+23:03:10 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+23:03:10 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+23:03:10 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:03:11 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:03:11 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:03:11 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:03:11 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:03:11 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:03:11 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:03:11 [AVERTISSEMENT] Forced host server pvp is not defined
+23:03:11 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:03:11 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:03:11 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:03:11 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:03:11 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:03:11 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+23:03:11 [INFOS] Listening on /0.0.0.0:25565
+23:04:44 [INFOS] [/127.0.0.1:49178] <-> InitialHandler has connected
+23:04:45 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+23:04:45 [INFOS] Netty is not using direct IO buffers.
+
+23:05:03 [INFOS] [lu420] <-> ServerConnector [survie] has connected
+23:05:04 [INFOS] [lu420] <-> DownstreamBridge <-> [lobby] has disconnected
+23:05:18 [INFOS] [lu420] <-> ServerConnector [lobby] has connected
+23:05:19 [INFOS] [lu420] <-> DownstreamBridge <-> [survie] has disconnected
+23:05:25 [INFOS] [lu420] -> UpstreamBridge has disconnected
+23:05:25 [INFOS] [lu420] <-> DownstreamBridge <-> [lobby] has disconnected
+23:51:45 [INFOS] Closing listener [id: 0x870979e4, L:/[0:0:0:0:0:0:0:0]:25565]
+23:51:45 [INFOS] Closing pending connections
+23:51:45 [INFOS] Disconnecting 0 connections
+23:51:45 [INFOS] Saving reconnect locations
+23:51:45 [INFOS] Disabling plugins
+23:51:45 [INFOS] Closing IO threads

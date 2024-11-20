@@ -1,0 +1,77 @@
+18:52:20 [INFOS] Using standard Java JCE cipher.
+18:52:20 [INFOS] Using standard Java compressor.
+18:52:20 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:f6b40b1:1884
+18:52:20 [INFOS] Not on Windows, attempting to use enhanced EpollEventLoop
+18:52:20 [AVERTISSEMENT] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+18:52:20 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+18:52:20 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+18:52:20 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+18:52:20 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+18:52:20 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+18:52:20 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:52:21 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:52:21 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:52:21 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:52:21 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:52:21 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:52:21 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:52:21 [AVERTISSEMENT] Forced host server pvp is not defined
+18:52:21 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:52:21 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:52:21 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:52:21 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:52:21 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:52:21 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:f6b40b1:1884 by SpigotMC
+18:52:21 [AVERTISSEMENT] Could not bind to host /0.0.0.0:25565
+java.net.BindException: Address already in use
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:141)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:561)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1331)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:600)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:579)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:972)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:259)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:380)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:469)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:994)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+18:52:47 [INFOS] Closing pending connections
+18:52:47 [GRAVE] Exception in thread "main" 
+18:52:47 [INFOS] Disconnecting 0 connections
+18:52:47 [GRAVE] java.io.IOException: Input/output error
+
+18:52:47 [GRAVE] 	at java.base/java.io.FileInputStream.read0(Native Method)
+
+18:52:47 [GRAVE] 	at java.base/java.io.FileInputStream.read(FileInputStream.java:235)
+
+18:52:47 [GRAVE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+
+18:52:47 [GRAVE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+
+18:52:47 [GRAVE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+
+18:52:47 [GRAVE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+
+18:52:47 [GRAVE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+
+18:52:47 [GRAVE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+
+18:52:47 [GRAVE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+
+18:52:47 [GRAVE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+
+18:52:47 [GRAVE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+
+18:52:47 [GRAVE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+18:52:47 [INFOS] Saving reconnect locations
+18:52:47 [INFOS] Disabling plugins
+18:52:47 [INFOS] Closing IO threads
